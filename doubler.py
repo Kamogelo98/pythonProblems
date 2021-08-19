@@ -3,7 +3,6 @@ where every element of the original array is multiplied by 2"""
 
 
 def doubler(numbers):
-    numbers = [1, 2, 3, 4]
     new_arr = []
     for x in numbers:
         new_arr.append(x*2)
