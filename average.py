@@ -1,3 +1,6 @@
+""" average_of_three(num1, num2, num3) method that returns the average of three numbers"""
+
+
 def average_of_three(num1, num2, num3):
     num1 = int(input("Please enter number 1: "))
     num2 = int(input("Please enter number 2: "))
