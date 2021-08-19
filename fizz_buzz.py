@@ -3,7 +3,7 @@
 
 def fizz_buzz(max):
     max = int(input("Enter maximum number: "))
-    x = 0
+    x = 1
     nums = []
 
     while(x < max):
